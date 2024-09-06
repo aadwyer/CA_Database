@@ -1,0 +1,423 @@
+CA_10_2_2_3.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_10_2_3_3.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_10_2_4_3.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_11_2_2_3.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_11_2_3_3.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_11_2_4_3.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_11_2_5_3.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_12_2_2_3.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_12_2_3_3.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_12_2_4_3.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_12_2_5_3.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_12_2_6_3.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_12_2_7_3.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_13_2_2_3.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_13_2_3_3.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_13_2_4_3.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_13_2_5_3.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_13_2_6_3.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_13_2_7_3.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_13_2_8_3.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_13_2_9_3.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_14_2_10_3.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_14_2_2_3.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_14_2_3_3.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_14_2_4_3.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_14_2_9_3.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_17_2_2_4.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_17_2_3_4.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_17_2_4_4.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_17_2_5_4.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_18_2_2_4.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_18_2_3_4.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_18_2_4_4.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_18_2_5_4.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_19_2_2_4.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_19_2_3_4.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_19_2_4_4.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_19_2_5_4.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_19_2_6_4.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_20_2_2_4.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_20_2_3_4.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_20_2_4_4.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_20_2_5_4.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_20_2_6_4.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_21_2_2_4.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_26_2_2_5.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_26_2_3_5.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_26_2_4_5.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_26_2_5_5.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_26_2_6_5.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_27_2_2_5.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_27_2_3_5.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_27_2_4_5.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_27_2_5_5.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_27_2_6_5.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_28_2_2_5.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_28_2_3_5.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_28_2_4_5.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_28_2_5_5.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_28_2_6_5.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_29_2_2_5.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_29_2_3_5.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_29_2_4_5.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_29_2_5_5.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_29_2_6_5.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_29_2_7_5.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_30_2_2_5.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_37_2_2_6.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_37_2_3_6.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_37_2_4_6.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_38_2_2_6.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_38_2_3_6.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_38_2_4_6.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_39_2_2_6.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_39_2_3_6.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_39_2_4_6.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_39_2_5_6.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_40_2_2_6.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_40_2_5_6.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_41_2_2_6.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_21_2_3_4.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_21_2_7_4.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_30_2_3_5.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_30_2_7_5.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_41_2_5_6.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_41_2_6_6.txt from Kokkala et. al Classification of small strength-2 CAs 
+CA_118_6_11_2.txt from Colbourn personal communication, construction is TJ 
+CA_472_3_9_7.txt from Colbourn personal communication, construction is CKRSsa 
+CA_479_3_10_7.txt from Colbourn personal communication, construction is CKRSsa 
+CA_111_4_6_3.txt from Colbourn personal communication, construction is CrossSum 
+CA_123_4_7_3.txt from Colbourn personal communication, construction is CrossSum 
+CA_240_3_5_6.txt from Colbourn personal communication, construction is CrossSum 
+CA_258_3_6_6.txt from Colbourn personal communication, construction is CrossSum 
+CA_351_5_7_3.txt from Colbourn personal communication, construction is CrossSum 
+CA_42_3_8_3.txt from Colbourn personal communication, construction is CrossSum 
+CA_64_5_14_2.txt from Colbourn personal communication, construction is CrossSum 
+CA_910_4_7_5.txt from Colbourn personal communication, construction is CrossSum 
+CA_21912_5_10_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_24579_5_11_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_27121_5_12_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_29267_5_13_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_31439_5_14_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_33479_5_15_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_35367_5_16_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_3671_4_11_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_37177_5_17_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_38865_5_18_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_40536_5_19_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_42044_5_20_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_43531_5_21_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_5422_4_19_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_5584_4_20_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_5743_4_21_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_5895_4_22_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_6062_4_23_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_6176_4_24_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_6325_4_25_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_472_3_9_7.txt from Colbourn personal communication, construction is CKRSsa 
+CA_479_3_10_7.txt from Colbourn personal communication, construction is CKRSsa 
+CA_111_4_6_3.txt from Colbourn personal communication, construction is CrossSum 
+CA_123_4_7_3.txt from Colbourn personal communication, construction is CrossSum 
+CA_240_3_5_6.txt from Colbourn personal communication, construction is CrossSum 
+CA_258_3_6_6.txt from Colbourn personal communication, construction is CrossSum 
+CA_351_5_7_3.txt from Colbourn personal communication, construction is CrossSum 
+CA_42_3_8_3.txt from Colbourn personal communication, construction is CrossSum 
+CA_64_5_14_2.txt from Colbourn personal communication, construction is CrossSum 
+CA_910_4_7_5.txt from Colbourn personal communication, construction is CrossSum 
+CA_21912_5_10_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_24579_5_11_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_27121_5_12_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_29267_5_13_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_31439_5_14_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_33479_5_15_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_35367_5_16_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_3671_4_11_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_37177_5_17_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_38865_5_18_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_40536_5_19_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_42044_5_20_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_43531_5_21_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_5422_4_19_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_5584_4_20_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_5743_4_21_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_5895_4_22_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_6062_4_23_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_6176_4_24_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_6325_4_25_6.txt from Colbourn personal communication, construction is DeCy+ 
+CA_10092_4_70_6.txt from Colbourn personal communication, construction is DeCy 
+CA_1542_5_28_3.txt from Colbourn personal communication, construction is DeCy 
+CA_45018_5_22_6.txt from Colbourn personal communication, construction is DeCy 
+CA_46362_5_23_6.txt from Colbourn personal communication, construction is DeCy 
+CA_47634_5_24_6.txt from Colbourn personal communication, construction is DeCy 
+CA_48906_5_25_6.txt from Colbourn personal communication, construction is DeCy 
+CA_6456_4_26_6.txt from Colbourn personal communication, construction is DeCy 
+CA_6606_4_27_6.txt from Colbourn personal communication, construction is DeCy 
+CA_6714_4_28_6.txt from Colbourn personal communication, construction is DeCy 
+CA_6852_4_29_6.txt from Colbourn personal communication, construction is DeCy 
+CA_6966_4_30_6.txt from Colbourn personal communication, construction is DeCy 
+CA_7092_4_31_6.txt from Colbourn personal communication, construction is DeCy 
+CA_7200_4_32_6.txt from Colbourn personal communication, construction is DeCy 
+CA_7320_4_33_6.txt from Colbourn personal communication, construction is DeCy 
+CA_7410_4_34_6.txt from Colbourn personal communication, construction is DeCy 
+CA_7506_4_35_6.txt from Colbourn personal communication, construction is DeCy 
+CA_7614_4_36_6.txt from Colbourn personal communication, construction is DeCy 
+CA_7716_4_37_6.txt from Colbourn personal communication, construction is DeCy 
+CA_7812_4_38_6.txt from Colbourn personal communication, construction is DeCy 
+CA_7902_4_39_6.txt from Colbourn personal communication, construction is DeCy 
+CA_7992_4_40_6.txt from Colbourn personal communication, construction is DeCy 
+CA_8094_4_41_6.txt from Colbourn personal communication, construction is DeCy 
+CA_8184_4_42_6.txt from Colbourn personal communication, construction is DeCy 
+CA_8256_4_43_6.txt from Colbourn personal communication, construction is DeCy 
+CA_8352_4_44_6.txt from Colbourn personal communication, construction is DeCy 
+CA_8436_4_45_6.txt from Colbourn personal communication, construction is DeCy 
+CA_8508_4_46_6.txt from Colbourn personal communication, construction is DeCy 
+CA_8586_4_47_6.txt from Colbourn personal communication, construction is DeCy 
+CA_8670_4_48_6.txt from Colbourn personal communication, construction is DeCy 
+CA_8760_4_49_6.txt from Colbourn personal communication, construction is DeCy 
+CA_8826_4_50_6.txt from Colbourn personal communication, construction is DeCy 
+CA_8910_4_51_6.txt from Colbourn personal communication, construction is DeCy 
+CA_8982_4_52_6.txt from Colbourn personal communication, construction is DeCy 
+CA_9054_4_53_6.txt from Colbourn personal communication, construction is DeCy 
+CA_9120_4_54_6.txt from Colbourn personal communication, construction is DeCy 
+CA_9186_4_55_6.txt from Colbourn personal communication, construction is DeCy 
+CA_9264_4_56_6.txt from Colbourn personal communication, construction is DeCy 
+CA_9306_4_57_6.txt from Colbourn personal communication, construction is DeCy 
+CA_9390_4_58_6.txt from Colbourn personal communication, construction is DeCy 
+CA_9456_4_59_6.txt from Colbourn personal communication, construction is DeCy 
+CA_9516_4_60_6.txt from Colbourn personal communication, construction is DeCy 
+CA_9582_4_61_6.txt from Colbourn personal communication, construction is DeCy 
+CA_9642_4_62_6.txt from Colbourn personal communication, construction is DeCy 
+CA_9810_4_65_6.txt from Colbourn personal communication, construction is DeCy 
+CA_1083_5_17_3.txt from Colbourn personal communication, construction is DeMu+ 
+CA_1143_5_18_3.txt from Colbourn personal communication, construction is DeMu+ 
+CA_1191_5_19_3.txt from Colbourn personal communication, construction is DeMu+ 
+CA_1239_5_20_3.txt from Colbourn personal communication, construction is DeMu+ 
+CA_1276_5_21_3.txt from Colbourn personal communication, construction is DeMu+ 
+CA_1311_5_22_3.txt from Colbourn personal communication, construction is DeMu+ 
+CA_1360_5_23_3.txt from Colbourn personal communication, construction is DeMu+ 
+CA_1394_5_24_3.txt from Colbourn personal communication, construction is DeMu+ 
+CA_1435_5_25_3.txt from Colbourn personal communication, construction is DeMu+ 
+CA_1474_5_26_3.txt from Colbourn personal communication, construction is DeMu+ 
+CA_1544_5_28_3.txt from Colbourn personal communication, construction is DeMu+ 
+CA_14853_6_12_4.txt from Colbourn personal communication, construction is DeMu+ 
+CA_1511_5_27_3.txt from Colbourn personal communication, construction is DeMu+ 
+CA_1600_5_30_3.txt from Colbourn personal communication, construction is DeMu+ 
+CA_243_5_6_3.txt from Colbourn personal communication, construction is DeMu+ 
+CA_1043_5_16_3.txt from Colbourn personal communication, construction is DeMu+ 
+CA_16463_6_13_4.txt from Colbourn personal communication, construction is DeMu+ 
+CA_20752_6_16_4.txt from Colbourn personal communication, construction is DeMu+ 
+CA_22057_6_17_4.txt from Colbourn personal communication, construction is DeMu+ 
+CA_23199_6_18_4.txt from Colbourn personal communication, construction is DeMu+ 
+CA_24322_6_19_4.txt from Colbourn personal communication, construction is DeMu+ 
+CA_2211_5_59_3.txt from Colbourn personal communication, construction is DeMu 
+CA_25411_6_20_4.txt from Colbourn personal communication, construction is DeMu+ 
+CA_2205_5_58_3.txt from Colbourn personal communication, construction is DeMu 
+CA_26488_6_21_4.txt from Colbourn personal communication, construction is DeMu+ 
+CA_390_5_7_3.txt from Colbourn personal communication, construction is DeMu+ 
+CA_405_5_9_3.txt from Colbourn personal communication, construction is DeMu+ 
+CA_2229_5_60_3.txt from Colbourn personal communication, construction is DeMu 
+CA_4359_6_20_3.txt from Colbourn personal communication, construction is DeMu+ 
+CA_495_4_49_3.txt from Colbourn personal communication, construction is DeMu 
+CA_4534_6_21_3.txt from Colbourn personal communication, construction is DeMu+ 
+CA_471_4_43_3.txt from Colbourn personal communication, construction is DeMu 
+CA_4699_6_22_3.txt from Colbourn personal communication, construction is DeMu+ 
+CA_478_5_8_3.txt from Colbourn personal communication, construction is DeMu+ 
+CA_507_4_53_3.txt from Colbourn personal communication, construction is DeMu 
+CA_4854_6_23_3.txt from Colbourn personal communication, construction is DeMu+ 
+CA_4998_6_7_4.txt from Colbourn personal communication, construction is DeMu+ 
+CA_549_4_64_3.txt from Colbourn personal communication, construction is DeMu 
+CA_5032_6_24_3.txt from Colbourn personal communication, construction is DeMu+ 
+CA_561_4_68_3.txt from Colbourn personal communication, construction is DeMu 
+CA_5178_6_25_3.txt from Colbourn personal communication, construction is DeMu+ 
+CA_5757_6_29_3.txt from Colbourn personal communication, construction is DeMu 
+CA_5351_6_26_3.txt from Colbourn personal communication, construction is DeMu+ 
+CA_5631_6_28_3.txt from Colbourn personal communication, construction is DeMu 
+CA_5480_6_27_3.txt from Colbourn personal communication, construction is DeMu+ 
+CA_639_5_10_3.txt from Colbourn personal communication, construction is DeMu+ 
+CA_585_4_76_3.txt from Colbourn personal communication, construction is DeMu 
+CA_7189_6_8_4.txt from Colbourn personal communication, construction is DeMu+ 
+CA_718_5_11_3.txt from Colbourn personal communication, construction is DeMu+ 
+CA_795_5_12_3.txt from Colbourn personal communication, construction is DeMu+ 
+CA_852_5_13_3.txt from Colbourn personal communication, construction is DeMu+ 
+CA_916_5_14_3.txt from Colbourn personal communication, construction is DeMu+ 
+CA_981_5_15_3.txt from Colbourn personal communication, construction is DeMu+ 
+CA_1575_5_29_3.txt from Colbourn personal communication, construction is DeMu 
+CA_579_4_73_3.txt from Colbourn personal communication, construction is DeMu 
+CA_1635_5_31_3.txt from Colbourn personal communication, construction is DeMu 
+CA_597_4_81_3.txt from Colbourn personal communication, construction is DeMu 
+CA_1659_5_32_3.txt from Colbourn personal communication, construction is DeMu 
+CA_5883_6_30_3.txt from Colbourn personal communication, construction is DeMu 
+CA_1695_5_33_3.txt from Colbourn personal communication, construction is DeMu 
+CA_591_4_78_3.txt from Colbourn personal communication, construction is DeMu 
+CA_1707_5_34_3.txt from Colbourn personal communication, construction is DeMu 
+CA_603_4_82_3.txt from Colbourn personal communication, construction is DeMu 
+CA_1743_5_35_3.txt from Colbourn personal communication, construction is DeMu 
+CA_615_4_88_3.txt from Colbourn personal communication, construction is DeMu 
+CA_1767_5_36_3.txt from Colbourn personal communication, construction is DeMu 
+CA_609_4_85_3.txt from Colbourn personal communication, construction is DeMu 
+CA_1785_5_37_3.txt from Colbourn personal communication, construction is DeMu 
+CA_627_4_92_3.txt from Colbourn personal communication, construction is DeMu 
+CA_1821_5_38_3.txt from Colbourn personal communication, construction is DeMu 
+CA_633_4_94_3.txt from Colbourn personal communication, construction is DeMu 
+CA_1839_5_39_3.txt from Colbourn personal communication, construction is DeMu 
+CA_639_4_97_3.txt from Colbourn personal communication, construction is DeMu 
+CA_1863_5_40_3.txt from Colbourn personal communication, construction is DeMu 
+CA_645_4_100_3.txt from Colbourn personal communication, construction is DeMu 
+CA_1887_5_41_3.txt from Colbourn personal communication, construction is DeMu 
+CA_657_4_105_3.txt from Colbourn personal communication, construction is DeMu 
+CA_1899_5_42_3.txt from Colbourn personal communication, construction is DeMu 
+CA_2768_4_9_6.txt from Colbourn personal communication, construction is Dens+ 
+CA_1935_5_43_3.txt from Colbourn personal communication, construction is DeMu 
+CA_2720_6_13_3.txt from Colbourn personal communication, construction is Dens+ 
+CA_1941_5_44_3.txt from Colbourn personal communication, construction is DeMu 
+CA_3208_4_10_6.txt from Colbourn personal communication, construction is Dens+ 
+CA_1965_5_45_3.txt from Colbourn personal communication, construction is DeMu 
+CA_3216_6_15_3.txt from Colbourn personal communication, construction is Dens+ 
+CA_1989_5_46_3.txt from Colbourn personal communication, construction is DeMu 
+CA_3653_6_17_3.txt from Colbourn personal communication, construction is Dens+ 
+CA_2007_5_47_3.txt from Colbourn personal communication, construction is DeMu 
+CA_3433_6_16_3.txt from Colbourn personal communication, construction is Dens+ 
+CA_2025_5_48_3.txt from Colbourn personal communication, construction is DeMu 
+CA_3839_6_18_3.txt from Colbourn personal communication, construction is Dens+ 
+CA_2043_5_49_3.txt from Colbourn personal communication, construction is DeMu 
+CA_120000_5_7_10.txt from Colbourn personal communication, construction is JLY 
+CA_2067_5_50_3.txt from Colbourn personal communication, construction is DeMu 
+CA_3944_4_12_6.txt from Colbourn personal communication, construction is Dens+ 
+CA_2085_5_51_3.txt from Colbourn personal communication, construction is DeMu 
+CA_4050_6_19_3.txt from Colbourn personal communication, construction is Dens+ 
+CA_2103_5_52_3.txt from Colbourn personal communication, construction is DeMu 
+CA_39_3_7_3.txt from Colbourn personal communication, construction is Hnich 
+CA_2115_5_53_3.txt from Colbourn personal communication, construction is DeMu 
+CA_10368_5_7_6.txt from Colbourn personal communication, construction is JLY 
+CA_2133_5_54_3.txt from Colbourn personal communication, construction is DeMu 
+CA_131742_6_10_6.txt from Colbourn personal communication, construction is MCI+ 
+CA_2157_5_55_3.txt from Colbourn personal communication, construction is DeMu 
+CA_2169_5_56_3.txt from Colbourn personal communication, construction is DeMu 
+CA_2187_5_57_3.txt from Colbourn personal communication, construction is DeMu 
+CA_1175_3_11_9.txt from Colbourn personal communication, construction is OA+ 
+CA_14282_4_10_10.txt from Colbourn personal communication, construction is OA+ 
+CA_14429_4_11_10.txt from Colbourn personal communication, construction is OA+ 
+CA_14562_4_12_10.txt from Colbourn personal communication, construction is OA+ 
+CA_1195_3_12_9.txt from Colbourn personal communication, construction is OA+ 
+CA_153884_5_10_10.txt from Colbourn personal communication, construction is OA+ 
+CA_157819_5_11_10.txt from Colbourn personal communication, construction is OA+ 
+CA_159639_5_12_10.txt from Colbourn personal communication, construction is OA+ 
+CA_1858_3_13_10.txt from Colbourn personal communication, construction is OA+ 
+CA_1844_4_7_6.txt from Colbourn personal communication, construction is OA+ 
+CA_1885_3_14_10.txt from Colbourn personal communication, construction is OA+ 
+CA_190715_6_9_7.txt from Colbourn personal communication, construction is OA+ 
+CA_1975_4_8_6.txt from Colbourn personal communication, construction is OA+ 
+CA_12752_4_12_9.txt from Colbourn personal communication, construction is OA+ 
+CA_1292_3_11_10.txt from Colbourn personal communication, construction is OA+ 
+CA_1299_3_12_10.txt from Colbourn personal communication, construction is OA+ 
+CA_23342_4_13_10.txt from Colbourn personal communication, construction is OA+ 
+CA_23889_4_14_10.txt from Colbourn personal communication, construction is OA+ 
+CA_27639_5_9_7.txt from Colbourn personal communication, construction is OA+ 
+CA_450372_6_10_8.txt from Colbourn personal communication, construction is OA+ 
+CA_53681_5_10_8.txt from Colbourn personal communication, construction is OA+ 
+CA_6125_4_10_8.txt from Colbourn personal communication, construction is OA+ 
+CA_301504_5_14_10.txt from Colbourn personal communication, construction is OA+ 
+CA_3569_4_9_7.txt from Colbourn personal communication, construction is OA+ 
+CA_1024_5_6_4.txt from Colbourn personal communication, construction is OA 
+CA_16_2_5_4.txt from Colbourn personal communication, construction is OA 
+CA_70761_6_8_6.txt from Colbourn personal communication, construction is OA+ 
+CA_100000_5_6_10.txt from Colbourn personal communication, construction is OA 
+CA_2607_3_37_10.txt from Colbourn personal communication, construction is SCPHF+ 
+CA_117649_6_8_7.txt from Colbourn personal communication, construction is OA 
+CA_2615_3_41_10.txt from Colbourn personal communication, construction is SCPHF+ 
+CA_125_3_6_5.txt from Colbourn personal communication, construction is OA 
+CA_2621_3_47_10.txt from Colbourn personal communication, construction is SCPHF+ 
+CA_2628_3_50_10.txt from Colbourn personal communication, construction is SCPHF+ 
+CA_27233_4_15_10.txt from Colbourn personal communication, construction is SCPHF+ 
+CA_15625_6_7_5.txt from Colbourn personal communication, construction is OA 
+CA_27513_4_16_10.txt from Colbourn personal communication, construction is SCPHF+ 
+CA_27859_4_17_10.txt from Colbourn personal communication, construction is SCPHF+ 
+CA_16807_5_8_7.txt from Colbourn personal communication, construction is OA 
+CA_2401_4_8_7.txt from Colbourn personal communication, construction is OA 
+CA_256_4_5_4.txt from Colbourn personal communication, construction is OA 
+CA_25_2_6_5.txt from Colbourn personal communication, construction is OA 
+CA_27_3_4_3.txt from Colbourn personal communication, construction is OA 
+CA_28117_4_18_10.txt from Colbourn personal communication, construction is SCPHF+ 
+CA_3125_5_6_5.txt from Colbourn personal communication, construction is OA 
+CA_28443_4_19_10.txt from Colbourn personal communication, construction is SCPHF+ 
+CA_32768_5_9_8.txt from Colbourn personal communication, construction is OA 
+CA_343_3_8_7.txt from Colbourn personal communication, construction is OA 
+CA_28585_4_20_10.txt from Colbourn personal communication, construction is SCPHF+ 
+CA_4096_4_9_8.txt from Colbourn personal communication, construction is OA 
+CA_4096_6_7_4.txt from Colbourn personal communication, construction is OA 
+CA_28979_4_21_10.txt from Colbourn personal communication, construction is SCPHF+ 
+CA_49_2_8_7.txt from Colbourn personal communication, construction is OA 
+CA_512_3_10_8.txt from Colbourn personal communication, construction is OA 
+CA_29071_4_22_10.txt from Colbourn personal communication, construction is SCPHF+ 
+CA_59049_5_10_9.txt from Colbourn personal communication, construction is OA 
+CA_625_4_6_5.txt from Colbourn personal communication, construction is OA 
+CA_64_2_9_8.txt from Colbourn personal communication, construction is OA 
+CA_64_3_6_4.txt from Colbourn personal communication, construction is OA 
+CA_29100_4_23_10.txt from Colbourn personal communication, construction is SCPHF+ 
+CA_4027_4_13_6.txt from Colbourn personal communication, construction is SCPHF+ 
+CA_6561_4_10_9.txt from Colbourn personal communication, construction is OA 
+CA_4080_4_14_6.txt from Colbourn personal communication, construction is SCPHF+ 
+CA_729_3_10_9.txt from Colbourn personal communication, construction is OA 
+CA_729_6_7_3.txt from Colbourn personal communication, construction is OA 
+CA_81_2_10_9.txt from Colbourn personal communication, construction is OA 
+CA_81_4_5_3.txt from Colbourn personal communication, construction is OA 
+CA_4132_4_15_6.txt from Colbourn personal communication, construction is SCPHF+ 
+CA_9_2_4_3.txt from Colbourn personal communication, construction is OA 
+CA_300_4_19_3.txt from Colbourn personal communication, construction is PGL+ 
+CA_303_4_20_3.txt from Colbourn personal communication, construction is PGL+ 
+CA_305_4_21_3.txt from Colbourn personal communication, construction is PGL+ 
+CA_307_4_22_3.txt from Colbourn personal communication, construction is PGL+ 
+CA_345_4_27_3.txt from Colbourn personal communication, construction is PGL+ 
+CA_360_4_28_3.txt from Colbourn personal communication, construction is PGL+ 
+CA_363_4_30_3.txt from Colbourn personal communication, construction is PGL+ 
+CA_387_4_33_3.txt from Colbourn personal communication, construction is PGL+ 
+CA_410_4_34_3.txt from Colbourn personal communication, construction is PGL+ 
+CA_411_4_35_3.txt from Colbourn personal communication, construction is PGL+ 
+CA_423_4_36_3.txt from Colbourn personal communication, construction is PGL+ 
+CA_433_4_37_3.txt from Colbourn personal communication, construction is PGL+ 
+CA_440_4_38_3.txt from Colbourn personal communication, construction is PGL+ 
+CA_441_4_39_3.txt from Colbourn personal communication, construction is PGL 
+CA_1431_6_9_3.txt from Colbourn personal communication, construction is SCPHF+ 
+CA_2579_3_28_10.txt from Colbourn personal communication, construction is SCPHF+ 
+CA_2557_3_25_10.txt from Colbourn personal communication, construction is SCPHF+ 
+CA_2584_3_30_10.txt from Colbourn personal communication, construction is SCPHF+ 
+CA_2558_3_26_10.txt from Colbourn personal communication, construction is SCPHF+ 
+CA_2589_3_32_10.txt from Colbourn personal communication, construction is SCPHF+ 
+CA_2564_3_27_10.txt from Colbourn personal communication, construction is SCPHF+ 
+CA_20_3_23_2.txt from Colbourn personal communication, construction is TJRT 
+CA_2599_3_35_10.txt from Colbourn personal communication, construction is SCPHF+ 
+CA_4203_4_16_6.txt from Colbourn personal communication, construction is SCPHF+ 
+CA_4259_4_17_6.txt from Colbourn personal communication, construction is SCPHF+ 
+CA_4315_4_18_6.txt from Colbourn personal communication, construction is SCPHF+ 
+CA_21_3_25_2.txt from Colbourn personal communication, construction is TJRT 
+CA_22_3_26_2.txt from Colbourn personal communication, construction is TJRT 
+CA_25_3_44_2.txt from Colbourn personal communication, construction is TJRT 
+CA_26_3_46_2.txt from Colbourn personal communication, construction is TJRT 
+CA_27_3_49_2.txt from Colbourn personal communication, construction is TJRT 
+CA_28_3_52_2.txt from Colbourn personal communication, construction is TJRT 
+CA_31_3_68_2.txt from Colbourn personal communication, construction is TJRT 
+CA_35_3_123_2.txt from Colbourn personal communication, construction is TJRT 
+CA_35_4_17_2.txt from Colbourn personal communication, construction is TJRT 
+CA_36_3_127_2.txt from Colbourn personal communication, construction is TJRT 
+CA_36_4_18_2.txt from Colbourn personal communication, construction is TJRT 
+CA_37_3_140_2.txt from Colbourn personal communication, construction is TJRT 
+CA_44_3_243_2.txt from Colbourn personal communication, construction is TJRT 
+CA_45_3_246_2.txt from Colbourn personal communication, construction is TJRT 
+CA_46_3_256_2.txt from Colbourn personal communication, construction is TJRT 
+CA_48_3_280_2.txt from Colbourn personal communication, construction is TJRT 
+CA_51_4_26_2.txt from Colbourn personal communication, construction is TJRT 
+CA_53_4_28_2.txt from Colbourn personal communication, construction is TJRT 
+CA_56_4_30_2.txt from Colbourn personal communication, construction is TJRT 
+CA_58_4_32_2.txt from Colbourn personal communication, construction is TJRT 
+CA_61_4_33_2.txt from Colbourn personal communication, construction is TJRT 
+CA_64_4_35_2.txt from Colbourn personal communication, construction is TJRT 
+CA_65_4_37_2.txt from Colbourn personal communication, construction is TJRT 
+CA_66_3_1712_2.txt from Colbourn personal communication, construction is TJRT 
+CA_66_4_38_2.txt from Colbourn personal communication, construction is TJRT 
+CA_108_6_9_2.txt from Colbourn personal communication, construction is TJ 
+CA_179_6_16_2.txt from Colbourn personal communication, construction is TJ 
+CA_235_6_17_2.txt from Colbourn personal communication, construction is TJ 
+CA_11664_5_8_6.txt from Colbourn personal communication, construction is XJD 
+CA_1792_5_8_4.txt from Colbourn personal communication, construction is XJD 
+CA_25000_6_8_5.txt from Colbourn personal communication, construction is XJD 
