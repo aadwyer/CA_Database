@@ -1,0 +1,9 @@
+All CPHFs from Erin Lanus personal communication.
+The list of included CPHFS is a work in progress.
+
+*Note* The compact form of the CPHFs are a representation
+of the CPHFs where each symbol "i" represents the ith 
+vector from the list of all vectors from U sorted lexicographically. 
+
+We plan to change this to be consistent with the reverse lexicographic
+ordering described in the paper.
